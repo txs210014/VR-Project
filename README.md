@@ -1,7 +1,1 @@
-# AtomicAudioVisuals
- Audio Visualization with atoms with the help of unity.
- Attraction and scaling of each atom is linked with Audio .
- Works on Fourier Transform- Used Blackman FFTWindow
- 
- 
- ![](ExampleGif.gif)
+The project demonstrates building a virtual reality environment for visualizing the atomic structure and the behavior of molecular attraction for different physical and chemical components. This can be of great help in primary education and science teaching methods
